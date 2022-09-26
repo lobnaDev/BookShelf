@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/action_topStories">
+
+    <fragment
+        android:id="@+id/action_books"
+        android:name="com.app.bookshelf.ui.Books.BookListFragment"
+        android:label="Book List"
+        tools:layout="@layout/fragment_book_list" >
+        <action
+            android:id="@+id/action_bookListFragment_to_bookInfoFragment"
+            app:destination="@id/bookInfoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookInfoFragment"
+        android:name="com.app.bookshelf.ui.Books.Adapter.BookInfoFragment"
+        android:label="fragment_book_info"
+        tools:layout="@layout/fragment_book_info" />
+    <fragment
+        android:id="@+id/action_topStories"
+        android:name="com.app.bookshelf.ui.TopStories.TopStoriesFragment"
+        android:label="Top Stories"
+        tools:layout="@layout/fragment_top_stories" >
+        <action
+            android:id="@+id/action_action_topStories_to_storyDetailesFragment"
+            app:destination="@id/storyDetailesFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/storyDetailesFragment"
+        android:name="com.app.bookshelf.ui.TopStories.StoryDetailesFragment"
+        android:label=""
+        tools:layout="@layout/fragment_story_detailes" />
+    <fragment
+        android:id="@+id/action_archive"
+        android:name="com.app.bookshelf.ui.favorites.FavoritesFragment"
+        android:label="Favorites"
+        tools:layout="@layout/fragment_favorites" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.app.bookshelf.ui.auth.LoginFragment"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/signupFragment"
+        android:name="com.app.bookshelf.ui.auth.SignupFragment"
+        tools:layout="@layout/fragment_signup" />
+    <fragment
+        android:id="@+id/action_profile"
+        android:name="com.app.bookshelf.ui.profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

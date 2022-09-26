@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity" >
+    <group
+        android:actionOverflowButtonStyle="@style/Widget.ActionButton.Overflow"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_fiction"
+            android:orderInCategory="100"
+            android:title="@string/action_fiction"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_nonFiction"
+            android:checked="false"
+            android:orderInCategory="100"
+            android:title="@string/action_nonFiction"
+            app:showAsAction="never" />
+
+    </group>
+</menu>

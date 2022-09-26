@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/drawable/buttonshape2.xml" value="0.1855" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/drawable/radio_button_selector.xml" value="0.1855" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/book_listitem.xml" value="0.5" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/favorites_item.xml" value="0.5" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/fragment_book_info.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/fragment_book_list.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/fragment_favorites.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/fragment_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/fragment_story_detailes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/fragment_top_stories.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/layout/topstory_item.xml" value="0.4670781893004115" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/menu/filter_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BookShelf/app/src/main/res/menu/tabs.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

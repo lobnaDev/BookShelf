@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Book Shelf</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_nonFiction">Non Fiction</string>
+    <string name="action_fiction">Fiction</string>
+    <string name="Archive">Archive</string>
+    <string name="Books">Books</string>
+    <string name="home">Home</string>
+    <string name="Profile">Profile</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="arts">arts</string>
+    <string name="automobiles">automobiles</string>
+    <string name="books">books</string>
+    <string name="business">business</string>
+    <string name="fashion">fashion</string>
+    <string name="food">food</string>
+    <string name="health">health</string>
+    <string name="home_">home</string>
+    <string name="insider">insider</string>
+    <string name="magazine">magazine</string>
+    <string name="movies">movies</string>
+    <string name="nyregion">nyregion</string>
+    <string name="obituaries">obituaries</string>
+    <string name="opinion">opinion</string>
+    <string name="politics">politics</string>
+    <string name="realestate">realestate</string>
+    <string name="science">science</string>
+    <string name="sundayreview">sundayreview</string>
+    <string name="sports">sports</string>
+    <string name="theater">theater</string>
+    <string name="technology">technology</string>
+    <string name="t_magazine">t-magazine</string>
+    <string name="travel">travel</string>
+    <string name="upshot">upshot</string>
+    <string name="us">us</string>
+    <string name="world">world</string>
+    <string name="user_gender">Gender</string>
+    <string name="password">Password</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">"Email "</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forget_password">Forget your password</string>
+    <string name="newAccount">Create New Account</string>
+    <string name="sginin">Login</string>
+    <string name="email_is_required">Email is Required</string>
+    <string name="password_is_required">Password is Required</string>
+    <string name="password_must_be_more_than_6">Password must be more than 6 character</string>
+    <string name="name_is_required">Full Name is Required</string>
+    <string name="something_went_">Somthing went wrong</string>
+    <string name="logout">Logout</string>
+    <string name="Favorites">Favorites</string>
+
+    <string-array name="section_Spinner">
+        <item> select section </item>
+        <item> arts </item>
+        <item> automobiles</item>
+        <item>books</item>
+        <item>business</item>
+        <item>fashion</item>
+        <item>food</item>
+        <item>health</item>
+        <item>home</item>
+        <item>insider</item>
+        <item>magazine</item>
+        <item>movies</item>
+        <item>nyregion</item>
+        <item>obituaries</item>
+        <item>opinion</item>
+        <item>politics</item>
+        <item>realestate</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>sundayreview</item>
+        <item>technology</item>
+        <item>theater</item>
+        <item>t-magazine</item>
+        <item>travel</item>
+        <item>upshot</item>
+        <item>us</item>
+        <item>world</item>
+    </string-array>
+</resources>
